@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1778348465|12328767838';
+const CACHE_VERSION = '1778349108|382543101';
 /** @type {string} */
-const CACHE_PREFIX = 'Sandbags Helper-sw-cache-';
+const CACHE_PREFIX = 'ProjectSettingsT-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
